@@ -1,0 +1,5 @@
+venv/
+Dataset/
+cleaned_dataset/
+final_data/
+testing_data/
